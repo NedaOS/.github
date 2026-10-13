@@ -14,4 +14,7 @@ Run the following command in your terminal:
 curl -fsSL https://raw.githubusercontent.com/NedaOS/fedora-setup/main/scripts/bootstrap.sh | bash
 ```
 
-**Requirements:** An internet connection and a user account with `sudo` privileges.
+**Requirements:**
+- Fedora 44
+- An internet connection
+- A user account with `sudo` privileges
