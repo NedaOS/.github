@@ -1,4 +1,4 @@
-# Fedora Setup
+# About This Setup
 
 My automated setup for **[Fedora Everything 44](https://fedoraproject.org/misc/#everything)**, built around **[Hyprland](https://hyprland.org/)**, **[Wayland](https://wayland.freedesktop.org/)**, and **[Noctalia](https://noctalia.dev/)**.
 
