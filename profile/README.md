@@ -11,7 +11,7 @@ Its desktop configuration draws inspiration from [ML4W](https://github.com/mylin
 Run the following command in your terminal:
 
 ```bash
-curl -fsSL nedamani.ir/install | bash
+curl -fsSL nedamani.ir/nedaos | bash
 ```
 
 **Requirements:**
