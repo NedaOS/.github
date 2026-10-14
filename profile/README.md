@@ -1,6 +1,6 @@
 # About This Setup
 
-My automated setup for **[Fedora Everything 44](https://fedoraproject.org/misc/#everything)**, built around **[Hyprland](https://hyprland.org/)**, **[Wayland](https://wayland.freedesktop.org/)**, and **[Noctalia](https://noctalia.dev/)**.
+My automated setup for **[Fedora Everything 44](https://fedoraproject.org/misc/#everything)**, built around **[Wayland](https://wayland.freedesktop.org/)**, **[Hyprland](https://hyprland.org/)** and **[Noctalia](https://noctalia.dev/)**.
 
 The setup is managed with [Ansible](https://ansible.com) and [chezmoi](https://www.chezmoi.io), combining reproducible system provisioning with declarative dotfile management.
 
@@ -11,7 +11,7 @@ Its desktop configuration draws inspiration from [ML4W](https://github.com/mylin
 Run the following command in your terminal:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/NedaOS/fedora-setup/main/scripts/bootstrap.sh | bash
+curl -fsSL nedamani.ir/install | bash
 ```
 
 **Requirements:**
