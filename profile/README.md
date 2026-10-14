@@ -17,4 +17,3 @@ curl -fsSL nedamani.ir/nedaos | bash
 **Requirements:**
 - Fedora 44
 - An internet connection
-- A user account with `sudo` privileges
