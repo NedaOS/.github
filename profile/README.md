@@ -1,4 +1,6 @@
-[../development-status.svg]
+<div align="center">
+  <img src="../development-status.svg" width="100%" alt="Development Status">
+</div>
 
 # About This Setup
 
