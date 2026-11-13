@@ -2,7 +2,7 @@
 
 # About This Setup
 
-My automated setup for **[Fedora Everything 44](https://fedoraproject.org/misc/#everything)**, built around **[Wayland](https://wayland.freedesktop.org/)**, **[Hyprland](https://hyprland.org/)** and **[Noctalia](https://noctalia.dev/)**.
+My automated setup for **[Fedora Everything 45](https://fedoraproject.org/misc/#everything)**, built around **[Wayland](https://wayland.freedesktop.org/)**, **[Hyprland](https://hyprland.org/)** and **[Noctalia](https://noctalia.dev/)**.
 
 The setup is managed with [Ansible](https://ansible.com) and [chezmoi](https://www.chezmoi.io), combining reproducible system provisioning with declarative dotfile management.
 
@@ -17,5 +17,5 @@ curl -fsSL nedamani.ir/nedaos | bash
 ```
 
 **Requirements:**
-- Fedora 44
+- Fedora 45
 - An internet connection
