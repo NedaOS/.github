@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="../development-status.svg" width="100%" alt="Development Status">
-</div>
-
 # About This Setup
 
 My automated setup for **[Fedora Everything 44](https://fedoraproject.org/misc/#everything)**, built around **[Wayland](https://wayland.freedesktop.org/)**, **[Hyprland](https://hyprland.org/)** and **[Noctalia](https://noctalia.dev/)**.
